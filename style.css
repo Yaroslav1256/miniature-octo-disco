@@ -1,0 +1,31 @@
+h1{
+    color: black;
+}
+
+header{
+    background-color: azure;
+}
+.anemo{
+     width: 400px;
+     float: left;
+}
+
+.geo{
+    width: 400px;
+    float: right;
+}
+    
+.elektro{
+width: 400px;
+float: left;
+}
+
+.dendro{
+  width: 400px; 
+  float: right; 
+}
+
+.hydro{
+   width: 400px;
+   float: left; 
+}
