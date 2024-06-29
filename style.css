@@ -6,26 +6,26 @@ header{
     background-color: azure;
 }
 .anemo{
-     width: 400px;
+     width: 500px;
      float: left;
 }
 
 .geo{
-    width: 400px;
+    width: 500px;
     float: right;
 }
     
 .elektro{
-width: 400px;
+width: 500px;
 float: left;
 }
 
 .dendro{
-  width: 400px; 
+  width: 500px; 
   float: right; 
 }
 
 .hydro{
-   width: 400px;
+   width: 500px;
    float: left; 
 }
